@@ -1,2 +1,7 @@
 pandas
 jupyter
+numpy
+matplotlib 
+librosa 
+praat-parselmouth
+seaborn
