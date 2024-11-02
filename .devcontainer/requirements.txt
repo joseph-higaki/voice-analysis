@@ -1,7 +1,9 @@
 pandas
 jupyter
-numpy
+numpy<2
 matplotlib 
 librosa 
 praat-parselmouth
 seaborn
+dtaidistance
+scipy
