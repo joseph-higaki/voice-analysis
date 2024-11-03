@@ -68,7 +68,30 @@ Pattern of pausing of lack of pausing:
 Preceived osound quality
 UNIQUE for voices
 
+# Interesting Info
+
+## Singer Identity Representation
+[Singer Identity Representation Learning using Self-Supervised Techniques](https://github.com/SonyCSLParis/ssl-singer-identity)
+
+```bibtex
+@inproceedings{torres2023singer,
+  title={Singer Identity Representation Learning using Self-Supervised Techniques},
+  author={Torres, Bernardo and Lattner, Stefan and Richard, Gael},
+  booktitle={International Society for Music Information Retrieval Conference (ISMIR 2023)},
+  year={2023}
+}
+```
+
+## Speaker Identification
+https://www.researchgate.net/publication/360961643_Speaker_Identification_using_Speech_Recognition 
+
+It wasn't clear what features are extracted to identify speakers.
+Found sample audios
+ [Large-scale (1000 hours) corpus of read English speech](https://www.openslr.org/12)
+
+
 Read further
 
 https://en.wikipedia.org/wiki/Psychoacoustics
+
 
