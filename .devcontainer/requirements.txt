@@ -7,3 +7,4 @@ praat-parselmouth
 seaborn
 dtaidistance
 scipy
+pyarrow

@@ -32,7 +32,8 @@
 				"eamodio.gitlens",
 				"redhat.vscode-yaml",
 				"ms-toolsai.jupyter",
-				"bierner.markdown-preview-github-styles"
+				"bierner.markdown-preview-github-styles",
+				"mechatroner.rainbow-csv"
 			]
 		}
 	}
