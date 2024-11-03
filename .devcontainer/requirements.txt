@@ -8,3 +8,6 @@ seaborn
 dtaidistance
 scipy
 pyarrow
+tabulate
+pocketsphinx
+SpeechRecognition
